@@ -24,38 +24,38 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Dharmik0261.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://Dharmik0261.com">Dharmik</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="(https://in.linkedin.com/in/dharmik-ambaliya-318758250)">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Flutter application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://Dharmik0261.com" target="blank">
+<!--  <a href="https://Dharmik0261.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Dharmik0261" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ </a> -->
+ <a href="https://in.linkedin.com/in/dharmik-ambaliya-318758250" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dharmik0261"/>
  </a>
  <!-- <a href="https://dev.to/Dharmik0261" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dharmik0261" />
  </a> -->
- <a href="https://twitter.com/_Dharmik0261" target="_blank">
+<!--  <a href="https://twitter.com/_Dharmik0261" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_Dharmik0261" target="_blank">
+ </a> -->
+ <a href="https://www.instagram.com/ll_dharmik_0261_ll" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Dharmik0261" />
  </a> 
- <a href="https://facebook.com/Dharmik0261.dev" target="_blank">
+ <a href="https://m.facebook.com/profile.php?id=100013399980736" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Dharmik0261"  />
   </a> 
 </p>
@@ -69,7 +69,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Dharmik0261.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: dharmikambaliya1389@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Dharmik0261/Dharmik0261/issues)
 
 </p>
